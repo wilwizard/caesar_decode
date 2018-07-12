@@ -1,0 +1,14 @@
+{
+  "name": "caesar_decode",
+  "version": "1.0.0",
+  "description": "Decodes Caeser Cyphers",
+  "main": "caesar_decode.js",
+  "scripts": {
+    "test": "node caesar_letter.js test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "detectlanguage": "^1.2.2"
+  }
+}
